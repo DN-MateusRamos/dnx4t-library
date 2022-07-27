@@ -1,0 +1,12 @@
+# Misc stuff
+node_modules/
+testScripts
+
+# TS output dir
+bin/
+out/
+package-lock.json
+*js
+
+# TS --incremental file
+tsconfig.tsbuildinfo
